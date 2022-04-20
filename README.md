@@ -40,15 +40,31 @@ The T-test for the suspension coils for Lot 3 shows that they are slightly stati
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+### What metric or metrics are you going to test?
+
+-Fuel Efficiency (city)
+
+-Fuel Efficiency (highway)
+
+-Safety Rating
+
+-Cost
+
+-Vehicle Emissions
+
+-Average Maintenance Cost
     
-In your description, address the following questions:
+### What is the null hypothesis or alternative hypothesis?
+
+Null Hypothesis: MechaCar is priced correctly based on its performance of key variables.
+
+Alternative Hypothesis: MechaCar is NOT priced correctly based on performance of key variables.
+
+### What statistical test would you use to test the hypothesis? And why?
+
+To test this hypothesis I would use a multiple linear regression to determine which variables have the highest correlation/predictability.
     
-What metric or metrics are you going to test?
-    
-What is the null hypothesis or alternative hypothesis?
-    
-What statistical test would you use to test the hypothesis? And why?
-    
-What data is needed to run the statistical test?
+### What data is needed to run the statistical test?
+
+I would need to collect all of the data for the other car companies as well as the data in my metrics that was not collected by MechaCar.
 
