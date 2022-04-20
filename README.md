@@ -37,3 +37,18 @@ The T-test for the suspension coils for Lot 2 shows that they are not statistica
 <img width="280" alt="lot_3" src="https://user-images.githubusercontent.com/93399107/164129813-0ac3230a-14b3-42e3-805c-153f0d348077.PNG">
 
 The T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is low enough for us to reject the null hypothesis. Lot 3 could be investigated further or removed from our dataset for more accuracy.
+
+## Study Design: MechaCar vs Competition
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+    
+In your description, address the following questions:
+    
+What metric or metrics are you going to test?
+    
+What is the null hypothesis or alternative hypothesis?
+    
+What statistical test would you use to test the hypothesis? And why?
+    
+What data is needed to run the statistical test?
+
