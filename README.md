@@ -4,6 +4,10 @@
 
 <img width="449" alt="linear_regression" src="https://user-images.githubusercontent.com/93399107/164127018-f8894a67-698c-4a62-ae5a-fba627b5eedd.PNG">
 
+
+The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset were Vehicle Length and the Ground Clearane. The intercept was also significant, and we can assume that other variables had an impact on our results. The slope of the linear model is not considered zero since the p-value is 5.35e-11 which is well below our normal level of significance of 0.05. This linear model does predict mpg of MechaCar prototypes effectively with an r-squared value of 0.7149, or 71% accuracy.
+
+
 ## T-Tests on Suspension Coils
 
 ### Total Summary
